@@ -1,6 +1,6 @@
 # Said-Portfolio (ML applied to trading)
 
-# [Project I: Developing and optimizing with backtesting](https://github.uio.no/saidhem/Project_I)
+# [Project I: Developing and optimizing with backtesting](https://github.com/shirdarec/Said-Portfolio/blob/main/Project_I-main/BollingerBand_optimized.ipynb)
 * I picked the Bollinger Bands strategy, using the version that Rayner Teo ( famous youtuber in the trading community) used. 
 * Using the yfinance library to get data from Yahoo Finance.
 * Implemented the strategy with some tweakble paramteres 
