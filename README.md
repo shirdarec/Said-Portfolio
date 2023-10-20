@@ -8,9 +8,9 @@
 * Then I used backtesting library to further viusalize the results and the statistics   
 * At last I made a table with all the different paramteres I tweaked to optimize the strategy 
 
-![](https://github.uio.no/saidhem/Said-Portfolio/blob/main/images/project1.JPG)
+![](https://github.com/shirdarec/Said-Portfolio/blob/main/images/project1.JPG)
 
-# [Project II: A simple tradingbot trading in Binance](https://github.uio.no/saidhem/Project_II)
+# [Project II: A simple tradingbot trading in Binance](https://github.com/shirdarec/Said-Portfolio/blob/main/Project_II-main/tradinbotTest2.ipynb)
 
 * Connected my binance account and built a clinet API to stream the BTCUSDT currency pair data.
 * Made a dataframe from the live data and transferred it to a sqlite database 
@@ -18,9 +18,9 @@
 * Used the Binance client to execute live trades 
 
 
-![](https://github.uio.no/saidhem/Said-Portfolio/blob/main/images/project2.JPG)
+![](https://github.com/shirdarec/Said-Portfolio/blob/main/images/project2.JPG)
 
-# [Project III: Finding the optimal indicator for your strategy using machine learning](https://github.uio.no/saidhem/Project_III)
+# [Project III: Finding the optimal indicator for your strategy using machine learning](https://github.com/shirdarec/Said-Portfolio/blob/main/Project_III-main/TA_ML.ipynb)
 
 * Created a tool that helps developers to find the optimal trading indicator for their strategies .
 * Scraped 3 years of data for USD currency 
@@ -28,4 +28,4 @@
 * Used XGBClassifier to determine what indicator yields the best performance 
 
 
-![](https://github.uio.no/saidhem/Said-Portfolio/blob/main/images/project3.JPG)
+![](https://github.com/shirdarec/Said-Portfolio/blob/main/images/project3.JPG)
